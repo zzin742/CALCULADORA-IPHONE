@@ -1,21 +1,24 @@
 # CALCULADORA-IPHONE
 
-Uma aplicação de calculadora inspirada no design do iPhone, desenvolvida em Python. O projeto busca combinar **funcionalidade prática** com **interface intuitiva**, simulando a experiência de uso de uma calculadora real em dispositivos iOS.
+CALCULADORA-IPHONE é uma aplicação de calculadora inspirada no design do iPhone, desenvolvida em Python. O projeto combina **funcionalidade prática** com **interface intuitiva**, simulando a experiência de uso de uma calculadora real em dispositivos iOS.
 
 ---
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 - Operações básicas: adição, subtração, multiplicação e divisão
-- Interface inspirada no design de calculadoras do iPhone
 - Suporte a múltiplos cálculos consecutivos
-- Fácil de expandir para operações avançadas no futuro
+- Interface limpa e fácil de usar
+- Possibilidade de expansão para funções avançadas
 
 ---
 
-## 💻 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
-- **Python** – Linguagem principal do projeto
-- **Tkinter** (ou outra biblioteca GUI se aplicável) – Para criação da interface gráfica
+- Python
+- Tkinter (ou outra biblioteca GUI, se aplicável)
 
 ---
+
+## Estrutura do Projeto
+
